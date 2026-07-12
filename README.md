@@ -80,6 +80,7 @@ Created visualizations using:
 - Distribution plots
 
 ---
+<img width="1081" height="622" alt="image" src="https://github.com/user-attachments/assets/3833443e-c71b-4a75-b75a-46a9e9b586b3" />
 
 ## 📊 Key Findings
 
